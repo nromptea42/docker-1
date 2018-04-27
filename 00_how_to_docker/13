@@ -1,0 +1,8 @@
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+HOSTNAME=e08000e4fb5b
+MYSQL_ROOT_PASSWORD=Kerrigan
+MYSQL_DATABASE=zerglings
+GOSU_VERSION=1.7
+MYSQL_MAJOR=5.7
+MYSQL_VERSION=5.7.22-1debian9
+HOME=/root
